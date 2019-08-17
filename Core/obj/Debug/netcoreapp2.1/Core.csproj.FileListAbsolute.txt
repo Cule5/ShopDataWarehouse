@@ -1,0 +1,9 @@
+C:\Users\Dominik\Desktop\Shop\Shop\Core\bin\Debug\netcoreapp2.1\Core.deps.json
+C:\Users\Dominik\Desktop\Shop\Shop\Core\bin\Debug\netcoreapp2.1\Core.dll
+C:\Users\Dominik\Desktop\Shop\Shop\Core\bin\Debug\netcoreapp2.1\Core.pdb
+C:\Users\Dominik\Desktop\Shop\Shop\Core\obj\Debug\netcoreapp2.1\Core.csprojAssemblyReference.cache
+C:\Users\Dominik\Desktop\Shop\Shop\Core\obj\Debug\netcoreapp2.1\Core.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\Desktop\Shop\Shop\Core\obj\Debug\netcoreapp2.1\Core.AssemblyInfoInputs.cache
+C:\Users\Dominik\Desktop\Shop\Shop\Core\obj\Debug\netcoreapp2.1\Core.AssemblyInfo.cs
+C:\Users\Dominik\Desktop\Shop\Shop\Core\obj\Debug\netcoreapp2.1\Core.dll
+C:\Users\Dominik\Desktop\Shop\Shop\Core\obj\Debug\netcoreapp2.1\Core.pdb

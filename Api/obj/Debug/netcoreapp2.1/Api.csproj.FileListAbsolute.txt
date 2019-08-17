@@ -1,0 +1,17 @@
+C:\Users\Dominik\Desktop\Shop\Shop\Api\bin\Debug\netcoreapp2.1\Api.deps.json
+C:\Users\Dominik\Desktop\Shop\Shop\Api\bin\Debug\netcoreapp2.1\Api.runtimeconfig.json
+C:\Users\Dominik\Desktop\Shop\Shop\Api\bin\Debug\netcoreapp2.1\Api.runtimeconfig.dev.json
+C:\Users\Dominik\Desktop\Shop\Shop\Api\bin\Debug\netcoreapp2.1\Api.dll
+C:\Users\Dominik\Desktop\Shop\Shop\Api\obj\Debug\netcoreapp2.1\Api.csprojAssemblyReference.cache
+C:\Users\Dominik\Desktop\Shop\Shop\Api\obj\Debug\netcoreapp2.1\Api.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\Desktop\Shop\Shop\Api\obj\Debug\netcoreapp2.1\Api.RazorAssemblyInfo.cache
+C:\Users\Dominik\Desktop\Shop\Shop\Api\obj\Debug\netcoreapp2.1\Api.RazorAssemblyInfo.cs
+C:\Users\Dominik\Desktop\Shop\Shop\Api\obj\Debug\netcoreapp2.1\Api.AssemblyInfoInputs.cache
+C:\Users\Dominik\Desktop\Shop\Shop\Api\obj\Debug\netcoreapp2.1\Api.AssemblyInfo.cs
+C:\Users\Dominik\Desktop\Shop\Shop\Api\obj\Debug\netcoreapp2.1\Api.RazorTargetAssemblyInfo.cache
+C:\Users\Dominik\Desktop\Shop\Shop\Api\bin\Debug\netcoreapp2.1\Api.pdb
+C:\Users\Dominik\Desktop\Shop\Shop\Api\obj\Debug\netcoreapp2.1\Api.dll
+C:\Users\Dominik\Desktop\Shop\Shop\Api\obj\Debug\netcoreapp2.1\Api.pdb
+C:\Users\Dominik\Desktop\Shop\Shop\Api\bin\Debug\netcoreapp2.1\Service.dll
+C:\Users\Dominik\Desktop\Shop\Shop\Api\bin\Debug\netcoreapp2.1\Service.pdb
+C:\Users\Dominik\Desktop\Shop\Shop\Api\obj\Debug\netcoreapp2.1\Api.csproj.CopyComplete
